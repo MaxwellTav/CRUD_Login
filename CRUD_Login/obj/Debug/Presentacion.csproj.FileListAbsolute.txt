@@ -1,0 +1,12 @@
+C:\Users\maxwe\source\repos\CRUD_Login\CRUD_Login\bin\Debug\CRUD_Login.exe.config
+C:\Users\maxwe\source\repos\CRUD_Login\CRUD_Login\bin\Debug\CRUD_Login.exe
+C:\Users\maxwe\source\repos\CRUD_Login\CRUD_Login\bin\Debug\CRUD_Login.pdb
+C:\Users\maxwe\source\repos\CRUD_Login\CRUD_Login\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\maxwe\source\repos\CRUD_Login\CRUD_Login\obj\Debug\CRUD_Login.Index.resources
+C:\Users\maxwe\source\repos\CRUD_Login\CRUD_Login\obj\Debug\CRUD_Login.Properties.Resources.resources
+C:\Users\maxwe\source\repos\CRUD_Login\CRUD_Login\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\maxwe\source\repos\CRUD_Login\CRUD_Login\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\source\repos\CRUD_Login\CRUD_Login\obj\Debug\CRUD_Login.exe
+C:\Users\maxwe\source\repos\CRUD_Login\CRUD_Login\obj\Debug\CRUD_Login.pdb
+C:\Users\maxwe\source\repos\CRUD_Login\CRUD_Login\bin\Debug\Guna.UI2.dll
+C:\Users\maxwe\source\repos\CRUD_Login\CRUD_Login\obj\Debug\Presentacion.csproj.CopyComplete
