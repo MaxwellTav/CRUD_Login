@@ -1,0 +1,9 @@
+C:\Users\maxwe\source\repos\CRUD_Login\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\maxwe\source\repos\CRUD_Login\Datos\obj\Debug\Datos.Properties.Resources.resources
+C:\Users\maxwe\source\repos\CRUD_Login\Datos\obj\Debug\Datos.csproj.GenerateResource.cache
+C:\Users\maxwe\source\repos\CRUD_Login\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\source\repos\CRUD_Login\Datos\bin\Debug\Datos.exe.config
+C:\Users\maxwe\source\repos\CRUD_Login\Datos\bin\Debug\Datos.exe
+C:\Users\maxwe\source\repos\CRUD_Login\Datos\bin\Debug\Datos.pdb
+C:\Users\maxwe\source\repos\CRUD_Login\Datos\obj\Debug\Datos.exe
+C:\Users\maxwe\source\repos\CRUD_Login\Datos\obj\Debug\Datos.pdb
